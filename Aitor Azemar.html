@@ -1,0 +1,59 @@
+<!DOCTYPE html5>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>
+  Aitor Azemar
+</title>
+<h1>
+Aitor Azemar
+</h1>
+
+<figure>
+<img src="Aitor%20Azemar_files/picture2.jpeg" style="height:250">
+</figure>
+
+<p>
+I am a 1st year PhD student at the <a href="https://www.gla.ac.uk/schools/mathematicsstatistics/">university of Glasgow</a>, supervised by <a href="https://www.maths.gla.ac.uk/~mbourque/">M. Fortier Bourque</a> and <a href="https://www.maths.gla.ac.uk/~vgadre/">V. Gadre</a>.
+</p>
+
+<h3>
+Research interests
+</h3>
+<p>
+I am mostly interested in the interplay between geometry and probability. Recently I have been studying properties about random walks and Teichmüller dynamics.
+</p>
+
+<h3>
+Currently thinking about
+</h3>
+<p>
+The horoboundary of the Teichmüller space of polygons.
+</p>
+<p>
+Effective sub-linear tracking for random walks on spaces with visual stability.
+</p>
+
+
+<h3>
+Papers
+</h3>
+<p>
+<ul class="nolabel">
+
+<li class="spaced">   <a href="https://arxiv.org/abs/1909.13811	">Statistical hyperbolicity for harmonic measure</a>, joint with <a href="https://www.maths.gla.ac.uk/~vgadre/">V. Gadre</a> and <a href="https://www.maths.gla.ac.uk/~ljeffreys">L.Jeffreys</a>, <i> preprint</i>
+  </li>
+  
+ <li class="spaced">   <a href="https://arxiv.org/abs/1810.09486">Random walks on convergence groups</a>, <i> preprint </i>
+  </li>
+
+</ul>
+
+</p>
+
+<h3>
+Currently Teaching
+</h3>
+<p>
+<a href=https://www.gla.ac.uk/coursecatalogue/course/?code=MATHS1016>
+Mathematics 1G: Introduction to Algebra, Geometry & Networks.</a>
+</p>
