@@ -9,7 +9,7 @@ Aitor Azemar
 </h1>
 
 <figure>
-<img src="Aitor%20Azemar_files/picture2.jpeg" style="height:250">
+<img src="picture2.jpeg" style="height:250">
 </figure>
 
 <p>
